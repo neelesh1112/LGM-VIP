@@ -1,3 +1,1 @@
-# LGM-VIP
-theme: minima
-remote_theme: minima
+https://neelesh1112.github.io/LGM-VIP/
